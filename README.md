@@ -6,9 +6,9 @@ Submitted by: Ahmed Elsharkay
 
 What's in this project?
 
-Time spent: 7 hours spent in total ← README.md: That's this file, where you can tell people what your cool website does and how you built it.
+Time spent: 4 hours spent in total ← README.md: That's this file, where you can tell people what your cool website does and how you built it.
 
-Link to project: (https://glitch.com/edit/#!/versed-coffee-seer?path=style.css%3A11%3A1, should start with https://glitch.com...) ← index.html: This is the main HTML page for your site.
+Link to project: (, should start with https://glitch.com...) ← index.html: This is the main HTML page for your site.
 
 Required Functionality
 
